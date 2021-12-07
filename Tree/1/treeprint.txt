@@ -1,0 +1,9 @@
+
+N    
+N    N    
+N    N    N    N    
+"n"  N    "."  " "  N    N    N    N    
+O    "o"  "m"  O    O    "p"  N    "u"  "t"  "r"  N    "S"  "c"  
+O    O    O    O    O    O    "k"  "e"  O    O    O    "C"  N    O    O    
+O    O    O    O    O    O    O    O    O    O    O    O    "i"  N    O    O    
+O    O    O    O    O    O    O    O    O    O    O    O    O    "I"  "l"  O    O    
